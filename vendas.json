@@ -1,0 +1,416 @@
+{
+    "1": {
+        "id_loja": "sul",
+        "data": "25/02/2023",
+        "id_cliente": "0101",
+        "id_album": [
+            "111",
+            "222"
+        ],
+        "total_da_venda": 386.4
+    },
+    "2": {
+        "id_loja": "norte",
+        "data": "25/02/2023",
+        "id_cliente": "0202",
+        "id_album": [
+            "333"
+        ],
+        "total_da_venda": 161.9
+    },
+    "3": {
+        "id_loja": "leste",
+        "data": "25/02/2023",
+        "id_cliente": "0303",
+        "id_album": [
+            "444",
+            "111",
+            "333",
+            "222"
+        ],
+        "total_da_venda": 764.15
+    },
+    "4": {
+        "id_loja": "centro",
+        "data": "25/02/2023",
+        "id_cliente": "0404",
+        "id_album": [
+            "444",
+            "333",
+            "222"
+        ],
+        "total_da_venda": 533.65
+    },
+    "5": {
+        "id_loja": "oeste",
+        "data": "25/02/2023",
+        "id_cliente": "0505",
+        "id_album": [
+            "333",
+            "222"
+        ],
+        "total_da_venda": 317.8
+    },
+    "6": {
+        "id_loja": "norte",
+        "data": "25/02/2023",
+        "id_cliente": "0606",
+        "id_album": [
+            "444",
+            "111"
+        ],
+        "total_da_venda": 446.35
+    },
+    "7": {
+        "id_loja": "centro",
+        "data": "25/02/2023",
+        "id_cliente": "0707",
+        "id_album": [
+            "444",
+            "222"
+        ],
+        "total_da_venda": 371.75
+    },
+    "8": {
+        "id_loja": "sul",
+        "data": "25/02/2023",
+        "id_cliente": "0808",
+        "id_album": [
+            "444",
+            "333"
+        ],
+        "total_da_venda": 377.75
+    },
+    "9": {
+        "id_loja": "leste",
+        "data": "25/02/2023",
+        "id_cliente": "0909",
+        "id_album": [
+            "111",
+            "333"
+        ],
+        "total_da_venda": 392.4
+    },
+    "10": {
+        "id_loja": "oeste",
+        "data": "25/02/2023",
+        "id_cliente": "1010",
+        "id_album": [
+            "444",
+            "111",
+            "333"
+        ],
+        "total_da_venda": 608.25
+    },
+    "11": {
+        "id_loja": "norte",
+        "data": "26/02/2023",
+        "id_cliente": "0909",
+        "id_album": [
+            "444"
+        ],
+        "total_da_venda": 215.85
+    },
+    "12": {
+        "id_loja": "norte",
+        "data": "26/02/2023",
+        "id_cliente": "1111",
+        "id_album": [
+            "888",
+            "222",
+            "333",
+            "555",
+            "777"
+        ],
+        "total_da_venda": 993.5899999999999
+    },
+    "13": {
+        "id_loja": "sul",
+        "data": "26/02/2023",
+        "id_cliente": "1212",
+        "id_album": [
+            "444",
+            "555",
+            "666"
+        ],
+        "total_da_venda": 715.24
+    },
+    "14": {
+        "id_loja": "centro",
+        "data": "26/02/2023",
+        "id_cliente": "1111",
+        "id_album": [
+            "111",
+            "444"
+        ],
+        "total_da_venda": 446.35
+    },
+    "15": {
+        "id_loja": "norte",
+        "data": "26/02/2023",
+        "id_cliente": "1212",
+        "id_album": [
+            "999"
+        ],
+        "total_da_venda": 189.0
+    },
+    "16": {
+        "id_loja": "oeste",
+        "data": "26/02/2023",
+        "id_cliente": "0909",
+        "id_album": [
+            "111",
+            "222",
+            "333"
+        ],
+        "total_da_venda": 548.3
+    },
+    "17": {
+        "id_loja": "centro",
+        "data": "27/02/2023",
+        "id_cliente": "1313",
+        "id_album": [
+            "999",
+            "888"
+        ],
+        "total_da_venda": 405.89
+    },
+    "18": {
+        "id_loja": "sul",
+        "data": "27/02/2023",
+        "id_cliente": "1313",
+        "id_album": [
+            "111"
+        ],
+        "total_da_venda": 230.5
+    },
+    "19": {
+        "id_loja": "norte",
+        "data": "27/02/2023",
+        "id_cliente": "1414",
+        "id_album": [
+            "888",
+            "999"
+        ],
+        "total_da_venda": 405.89
+    },
+    "20": {
+        "id_loja": "oeste",
+        "data": "27/02/2023",
+        "id_cliente": "1414",
+        "id_album": [
+            "666",
+            "777"
+        ],
+        "total_da_venda": 398.49
+    },
+    "21": {
+        "id_loja": "sul",
+        "data": "27/02/2023",
+        "id_cliente": "1515",
+        "id_album": [
+            "777",
+            "888",
+            "999"
+        ],
+        "total_da_venda": 584.89
+    },
+    "22": {
+        "id_loja": "leste",
+        "data": "27/02/2023",
+        "id_cliente": "1616",
+        "id_album": [
+            "555",
+            "777",
+            "888"
+        ],
+        "total_da_venda": 675.79
+    },
+    "23": {
+        "id_loja": "leste",
+        "data": "28/02/2023",
+        "id_cliente": "1616",
+        "id_album": [
+            "888",
+            "999",
+            "666",
+            "555"
+        ],
+        "total_da_venda": 905.28
+    },
+    "24": {
+        "id_loja": "oeste",
+        "data": "28/02/2023",
+        "id_cliente": "1414",
+        "id_album": [
+            "999",
+            "111"
+        ],
+        "total_da_venda": 419.5
+    },
+    "25": {
+        "id_loja": "norte",
+        "data": "28/02/2023",
+        "id_cliente": "1616",
+        "id_album": [
+            "111",
+            "222",
+            "333"
+        ],
+        "total_da_venda": 548.3
+    },
+    "26": {
+        "id_loja": "norte",
+        "data": "01/03/2023",
+        "id_cliente": "1616",
+        "id_album": [
+            "101"
+        ],
+        "total_da_venda": 187.0
+    },
+    "27": {
+        "id_loja": "sul",
+        "data": "01/03/2023",
+        "id_cliente": "1212",
+        "id_album": [
+            "101"
+        ],
+        "total_da_venda": 187.0
+    },
+    "28": {
+        "id_loja": "oeste",
+        "data": "01/03/2023",
+        "id_cliente": "1515",
+        "id_album": [
+            "101"
+        ],
+        "total_da_venda": 187.0
+    },
+    "29": {
+        "id_loja": "leste",
+        "data": "01/03/2023",
+        "id_cliente": "1414",
+        "id_album": [
+            "101"
+        ],
+        "total_da_venda": 187.0
+    },
+    "30": {
+        "id_loja": "leste",
+        "data": "01/03/2023",
+        "id_cliente": "0404",
+        "id_album": [
+            "101"
+        ],
+        "total_da_venda": 187.0
+    },
+    "31": {
+        "id_loja": "leste",
+        "data": "01/03/2023",
+        "id_cliente": "0101",
+        "id_album": [
+            "101"
+        ],
+        "total_da_venda": 187.0
+    },
+    "32": {
+        "id_loja": "leste",
+        "data": "01/03/2023",
+        "id_cliente": "0404",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "33": {
+        "id_loja": "norte",
+        "data": "01/03/2023",
+        "id_cliente": "0606",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "34": {
+        "id_loja": "centro",
+        "data": "01/03/2023",
+        "id_cliente": "0909",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "35": {
+        "id_loja": "norte",
+        "data": "01/03/2023",
+        "id_cliente": "0707",
+        "id_album": [
+            "101",
+            "101"
+        ],
+        "total_da_venda": 374.0
+    },
+    "36": {
+        "id_loja": "sul",
+        "data": "01/03/2023",
+        "id_cliente": "1010",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "37": {
+        "id_loja": "norte",
+        "data": "01/03/2023",
+        "id_cliente": "0505",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "38": {
+        "id_loja": "leste",
+        "data": "01/03/2023",
+        "id_cliente": "0909",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "39": {
+        "id_loja": "oeste",
+        "data": "01/03/2023",
+        "id_cliente": "1010",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "40": {
+        "id_loja": "norte",
+        "data": "01/03/2023",
+        "id_cliente": "1111",
+        "id_album": [
+            "101",
+            "999"
+        ],
+        "total_da_venda": 376.0
+    },
+    "41": {
+        "id_loja": "norte",
+        "data": "01/03/2023",
+        "id_cliente": "1212",
+        "id_album": [
+            "101",
+            "888"
+        ],
+        "total_da_venda": 403.89
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "111": {
+        "ano": "1983",
+        "artista": "Billy_Idol",
+        "genero": "post_punk",
+        "titulo": "rebel_yell",
+        "preco": 230.5,
+        "quantidade": 12
+    },
+    "222": {
+        "ano": "1990",
+        "artista": "Iggy_Pop",
+        "genero": "pop_rock",
+        "titulo": "candy",
+        "preco": 155.9,
+        "quantidade": 15
+    },
+    "333": {
+        "ano": "1997",
+        "artista": "Prodigy",
+        "genero": "eletronico",
+        "titulo": "the_fat_of_the_land",
+        "preco": 161.9,
+        "quantidade": 11
+    },
+    "444": {
+        "ano": "1984",
+        "artista": "Madonna",
+        "genero": "pop_rock",
+        "titulo": "like_a_virgin",
+        "preco": 215.85,
+        "quantidade": 12
+    },
+    "555": {
+        "ano": "2006",
+        "artista": "The_Killers",
+        "genero": "alternativo",
+        "titulo": "Sam's_Town",
+        "preco": 279.9,
+        "quantidade": 30
+    },
+    "666": {
+        "ano": "1981",
+        "artista": "blondie",
+        "genero": "new_wave",
+        "titulo": "the_best_of_blondie",
+        "preco": 219.49,
+        "quantidade": 36
+    },
+    "777": {
+        "ano": "1983",
+        "artista": "Culture_Club",
+        "genero": "new_wave",
+        "titulo": "Colour_by_Numbers",
+        "preco": 179.0,
+        "quantidade": 21
+    },
+    "888": {
+        "ano": "2006",
+        "artista": "depeche_mode",
+        "genero": "dance_alternativo",
+        "titulo": "the_best_of_depeche_mode",
+        "preco": 216.89,
+        "quantidade": 45
+    },
+    "999": {
+        "ano": "1984",
+        "artista": "alphaville",
+        "genero": "pop_rock",
+        "titulo": "forever_young",
+        "preco": 189.0,
+        "quantidade": 24
+    },
+    "101": {
+        "ano": "1992",
+        "artista": "the_cure",
+        "genero": "new_wave",
+        "titulo": "friday_i_am_in_love",
+        "preco": 187.0,
+        "quantidade": 15
+    }
+}
